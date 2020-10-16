@@ -24,6 +24,7 @@ Com próximas atualizações pretendo:
 - Salvar os dados na minha aplicação;
 - Disponibilizar a busca por mais itens como o código de compensação;
 - Rodar rotina para verificar o endpoint da Febraban e verificar se houve alguma mudança com relação ao banco de dados;
+- Interface HTML para consulta dos dados;
 - Analisar melhor a api do Banco Central e disponibilizar mais dados além dos citados acima;
 
 Se gostou, manda um alô lá no LinkedIn: www.linkedin.com/in/daniel-callado
