@@ -20,6 +20,7 @@ razão social do banco de forma simples e irá retornar os dados da seguinte for
 
 Com próximas atualizações pretendo:
 
+- Documentar a API usando Swagger
 - Parsear a consulta para sanitizar caracteres especiais como acento;
 - Salvar os dados na minha aplicação;
 - Disponibilizar a busca por mais itens como o código de compensação;
