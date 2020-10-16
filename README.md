@@ -20,12 +20,16 @@ razão social do banco de forma simples e irá retornar os dados da seguinte for
 
 Com próximas atualizações pretendo:
 
-- Documentar a API usando Swagger
-- Parsear a consulta para sanitizar caracteres especiais como acento;
+- Versionar a API;
+- Implementar testes automatizados;
+- Documentar a API usando Swagger;
+- Melhorar o error handling;
+- Parsear a consulta para sanitizar caracteres especiais como acentos;
 - Salvar os dados na minha aplicação;
 - Disponibilizar a busca por mais itens como o código de compensação;
 - Rodar rotina para verificar o endpoint da Febraban e verificar se houve alguma mudança com relação ao banco de dados;
 - Interface HTML para consulta dos dados;
 - Analisar melhor a api do Banco Central e disponibilizar mais dados além dos citados acima;
+- Limitar o uso (Rate limiting);
 
 Se gostou, manda um alô lá no LinkedIn: www.linkedin.com/in/daniel-callado
