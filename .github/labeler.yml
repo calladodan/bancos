@@ -1,2 +1,10 @@
 ruby:
-- '**/*.rb'
+  - '**/*.rb'
+
+with_migrations:
+  - 'db/migrate/*.rb'
+  - 'db/schema.rb'
+
+with_data_migrations:
+  - 'db/data/*.rb'
+  - 'db/data_schema.rb'
